@@ -1,10 +1,10 @@
 # DSA-Search-Engine
 
 
-It is a Search engine which gives you top 5 problems available on the famous CP sites based on the topic you search in search bar.
+It is a Search engine that gives you the top 5 problems available on the famous CP sites based on the topic you search in the search bar.
 
-Working based on TF-IDF Algorithm implemented by myself manually in js language.
+Working based on TF-IDF Algorithm implemented manually in js language.
 
-Problems are scraped using Beautiful soup 4 and Selenium Web Driver from onlines website.
+Problems are scraped using Beautiful Soup 4 and Selenium Web Driver from online website.
 
-Scraped data is filtered using python libraries and processed in the searching algorithm while handling edge cases. 
+Scraped data is filtered using Python libraries and processed in the search algorithm while handling edge cases. 
